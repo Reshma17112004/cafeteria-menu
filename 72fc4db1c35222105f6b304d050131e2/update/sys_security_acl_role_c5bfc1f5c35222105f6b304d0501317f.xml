@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-23 09:28:52</sys_created_on>
+        <sys_id>c5bfc1f5c35222105f6b304d0501317f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1622143_cafeteri_cafeteria_menu_display.x_1622143_cafeteri.cafeteria_menu_display_user</sys_name>
+        <sys_package display_value="Cafeteria Menu Display" source="x_1622143_cafeteri">72fc4db1c35222105f6b304d050131e2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cafeteria Menu Display">72fc4db1c35222105f6b304d050131e2</sys_scope>
+        <sys_security_acl display_value="x_1622143_cafeteri_cafeteria_menu_display">81bfc1f5c35222105f6b304d0501317c</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_c5bfc1f5c35222105f6b304d0501317f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-23 09:28:52</sys_updated_on>
+        <sys_user_role display_value="x_1622143_cafeteri.cafeteria_menu_display_user" name="x_1622143_cafeteri.cafeteria_menu_display_user">70bf49b5c35222105f6b304d05013160</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

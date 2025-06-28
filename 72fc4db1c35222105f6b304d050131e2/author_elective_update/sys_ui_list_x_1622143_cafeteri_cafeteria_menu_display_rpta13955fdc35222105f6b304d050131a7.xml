@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="global" table="x_1622143_cafeteri_cafeteria_menu_display" version="2" view="RPTa13955fdc35222105f6b304d050131a7">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>menu_date</element>
+            <list_id display_value="x_1622143_cafeteri_cafeteria_menu_display" element="NULL" name="x_1622143_cafeteri_cafeteria_menu_display" parent="NULL" relationship="NULL" sys_domain="global" view="f93911f1c39222105f6b304d05013127">fba919f1c39222105f6b304d050131ef</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-23 10:12:28</sys_created_on>
+            <sys_id>77a919f1c39222105f6b304d050131f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-23 10:12:28</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>menu_items</element>
+            <list_id display_value="x_1622143_cafeteri_cafeteria_menu_display" element="NULL" name="x_1622143_cafeteri_cafeteria_menu_display" parent="NULL" relationship="NULL" sys_domain="global" view="f93911f1c39222105f6b304d05013127">fba919f1c39222105f6b304d050131ef</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-23 10:12:28</sys_created_on>
+            <sys_id>f7a919f1c39222105f6b304d050131f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-23 10:12:28</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>menu_name</element>
+            <list_id display_value="x_1622143_cafeteri_cafeteria_menu_display" element="NULL" name="x_1622143_cafeteri_cafeteria_menu_display" parent="NULL" relationship="NULL" sys_domain="global" view="f93911f1c39222105f6b304d05013127">fba919f1c39222105f6b304d050131ef</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-23 10:12:28</sys_created_on>
+            <sys_id>7ba919f1c39222105f6b304d050131f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-23 10:12:28</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_1622143_cafeteri_cafeteria_menu_display</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-23 10:12:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fba919f1c39222105f6b304d050131ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1622143_cafeteri_cafeteria_menu_display</sys_name>
+            <sys_package display_value="Cafeteria Menu Display" source="x_1622143_cafeteri">72fc4db1c35222105f6b304d050131e2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Cafeteria Menu Display">72fc4db1c35222105f6b304d050131e2</sys_scope>
+            <sys_update_name>sys_ui_list_x_1622143_cafeteri_cafeteria_menu_display_RPTa13955fdc35222105f6b304d050131a7</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-23 10:12:28</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rpta13955fdc35222105f6b304d050131a7" name="RPTa13955fdc35222105f6b304d050131a7">f93911f1c39222105f6b304d05013127</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Cafeteria Menu Display">72fc4db1c35222105f6b304d050131e2</application>
+        <file_path/>
+        <instance_id>a00ca8eeeb0692985a2dfceacad0cdfa</instance_id>
+        <instance_name>dev292036</instance_name>
+        <name>sys_ui_list_x_1622143_cafeteri_cafeteria_menu_display_RPTa13955fdc35222105f6b304d050131a7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="x_1622143_cafeteri_cafeteria_menu_display" version="2" view="RPTa13955fdc35222105f6b304d050131a7"><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>menu_date</element><list_id display_value="x_1622143_cafeteri_cafeteria_menu_display" element="NULL" name="x_1622143_cafeteri_cafeteria_menu_display" parent="NULL" relationship="NULL" sys_domain="global" view="f93911f1c39222105f6b304d05013127">fba919f1c39222105f6b304d050131ef</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-23 10:12:28</sys_created_on><sys_id>77a919f1c39222105f6b304d050131f0</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-23 10:12:28</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>menu_items</element><list_id display_value="x_1622143_cafeteri_cafeteria_menu_display" element="NULL" name="x_1622143_cafeteri_cafeteria_menu_display" parent="NULL" relationship="NULL" sys_domain="global" view="f93911f1c39222105f6b304d05013127">fba919f1c39222105f6b304d050131ef</list_id><max_value>false</max_value><min_value>false</min_value><position>1</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-23 10:12:28</sys_created_on><sys_id>f7a919f1c39222105f6b304d050131f0</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-23 10:12:28</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>menu_name</element><list_id display_value="x_1622143_cafeteri_cafeteria_menu_display" element="NULL" name="x_1622143_cafeteri_cafeteria_menu_display" parent="NULL" relationship="NULL" sys_domain="global" view="f93911f1c39222105f6b304d05013127">fba919f1c39222105f6b304d050131ef</list_id><max_value>false</max_value><min_value>false</min_value><position>2</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-23 10:12:28</sys_created_on><sys_id>7ba919f1c39222105f6b304d050131f0</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-23 10:12:28</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>x_1622143_cafeteri_cafeteria_menu_display</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-23 10:12:28</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>fba919f1c39222105f6b304d050131ef</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1622143_cafeteri_cafeteria_menu_display</sys_name><sys_package display_value="Cafeteria Menu Display" source="x_1622143_cafeteri">72fc4db1c35222105f6b304d050131e2</sys_package><sys_policy/><sys_scope display_value="Cafeteria Menu Display">72fc4db1c35222105f6b304d050131e2</sys_scope><sys_update_name>sys_ui_list_x_1622143_cafeteri_cafeteria_menu_display_RPTa13955fdc35222105f6b304d050131a7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-23 10:12:28</sys_updated_on><sys_user/><view display_value="Rpta13955fdc35222105f6b304d050131a7" name="RPTa13955fdc35222105f6b304d050131a7">f93911f1c39222105f6b304d05013127</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+        <payload_hash>-1471013010</payload_hash>
+        <record_name>Cafeteria Menu Display</record_name>
+        <reverted_from/>
+        <source>72fc4db1c35222105f6b304d050131e4</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-23 10:12:28</sys_created_on>
+        <sys_id>77a919f1c39222105f6b304d050131f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1979c4666000000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-23 10:12:28</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>3fa919f142922210b1f7b3c41a76aaf1</update_guid>
+        <update_guid_history>3fa919f142922210b1f7b3c41a76aaf1:-1471013010,313911f115922210af64536f88e6472b:-1715684541</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-23 10:40:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>673d58669791493baa4145082115e031</sys_id>
+        <sys_metadata>fba919f1c39222105f6b304d050131ef</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1622143_cafeteri_cafeteria_menu_display</sys_name>
+        <sys_package display_value="Cafeteria Menu Display" source="x_1622143_cafeteri">72fc4db1c35222105f6b304d050131e2</sys_package>
+        <sys_parent display_value="Cafeteria Menu Display">4add4175c35222105f6b304d0501313e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Cafeteria Menu Display">72fc4db1c35222105f6b304d050131e2</sys_scope>
+        <sys_scope_delete display_value="">1e40136a1b23401cbbbcfe3655722ea9</sys_scope_delete>
+        <sys_update_name>sys_ui_list_x_1622143_cafeteri_cafeteria_menu_display_RPTa13955fdc35222105f6b304d050131a7</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_x_1622143_cafeteri_cafeteria_menu_display_RPTa13955fdc35222105f6b304d050131a7">77a919f1c39222105f6b304d050131f2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-23 10:40:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

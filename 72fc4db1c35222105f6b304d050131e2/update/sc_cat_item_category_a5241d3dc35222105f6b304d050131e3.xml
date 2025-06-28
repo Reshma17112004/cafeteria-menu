@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Submit new cafeteria menu">78f3953dc35222105f6b304d050131c9</sc_cat_item>
+        <sc_category display_value="Cafeteria Services">273399f9c35222105f6b304d05013159</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-23 09:48:17</sys_created_on>
+        <sys_id>a5241d3dc35222105f6b304d050131e3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cafeteria Services.Submit new cafeteria menu</sys_name>
+        <sys_package display_value="Cafeteria Menu Display" source="x_1622143_cafeteri">72fc4db1c35222105f6b304d050131e2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cafeteria Menu Display">72fc4db1c35222105f6b304d050131e2</sys_scope>
+        <sys_update_name>sc_cat_item_category_a5241d3dc35222105f6b304d050131e3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-23 09:48:17</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

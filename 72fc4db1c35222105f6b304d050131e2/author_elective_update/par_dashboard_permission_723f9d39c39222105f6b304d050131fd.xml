@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_permission">
+    <par_dashboard_permission action="DELETE">
+        <can_read>true</can_read>
+        <can_share>true</can_share>
+        <can_write>true</can_write>
+        <dashboard display_value="Cafeteria Menu Display">04eaddfdc35222105f6b304d050131e1</dashboard>
+        <group/>
+        <owner>false</owner>
+        <role/>
+        <sys_class_name>par_dashboard_permission</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-23 10:36:42</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>723f9d39c39222105f6b304d050131fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>04eaddfdc35222105f6b304d050131e1</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Cafeteria Menu Display" source="x_1622143_cafeteri">72fc4db1c35222105f6b304d050131e2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cafeteria Menu Display">72fc4db1c35222105f6b304d050131e2</sys_scope>
+        <sys_update_name>par_dashboard_permission_723f9d39c39222105f6b304d050131fd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-23 10:36:42</sys_updated_on>
+        <user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user>
+    </par_dashboard_permission>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Cafeteria Menu Display">72fc4db1c35222105f6b304d050131e2</application>
+        <file_path/>
+        <instance_id>a00ca8eeeb0692985a2dfceacad0cdfa</instance_id>
+        <instance_name>dev292036</instance_name>
+        <name>par_dashboard_permission_723f9d39c39222105f6b304d050131fd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_permission"><par_dashboard_permission action="INSERT_OR_UPDATE"><can_read>true</can_read><can_share>true</can_share><can_write>true</can_write><dashboard display_value="Cafeteria Menu Display">04eaddfdc35222105f6b304d050131e1</dashboard><group/><owner>false</owner><role/><sys_class_name>par_dashboard_permission</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-23 10:36:42</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>723f9d39c39222105f6b304d050131fd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>04eaddfdc35222105f6b304d050131e1</sys_name><sys_overrides/><sys_package display_value="Cafeteria Menu Display" source="x_1622143_cafeteri">72fc4db1c35222105f6b304d050131e2</sys_package><sys_policy/><sys_scope display_value="Cafeteria Menu Display">72fc4db1c35222105f6b304d050131e2</sys_scope><sys_update_name>par_dashboard_permission_723f9d39c39222105f6b304d050131fd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-23 10:36:42</sys_updated_on><user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user></par_dashboard_permission></record_update>]]></payload>
+        <payload_hash>464978563</payload_hash>
+        <record_name>04eaddfdc35222105f6b304d050131e1</record_name>
+        <reverted_from/>
+        <source>72fc4db1c35222105f6b304d050131e4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-23 10:36:42</sys_created_on>
+        <sys_id>be3f9d39c39222105f6b304d050131ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1979c5c965f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-23 10:36:42</sys_updated_on>
+        <type>PAR Dashboard Permission</type>
+        <update_guid>b23f9d3973922210433eef4061562fff</update_guid>
+        <update_guid_history>b23f9d3973922210433eef4061562fff:464978563</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">f240a9f9c39222105f6b304d050131e4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-23 10:41:21</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_permission">par_dashboard_permission</sys_db_object>
+        <sys_id>282bd4dca57049f8864474550592aa10</sys_id>
+        <sys_metadata>723f9d39c39222105f6b304d050131fd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>04eaddfdc35222105f6b304d050131e1</sys_name>
+        <sys_package display_value="Cafeteria Menu Display" source="x_1622143_cafeteri">72fc4db1c35222105f6b304d050131e2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Cafeteria Menu Display">72fc4db1c35222105f6b304d050131e2</sys_scope>
+        <sys_scope_delete display_value="">1e40136a1b23401cbbbcfe3655722ea9</sys_scope_delete>
+        <sys_update_name>par_dashboard_permission_723f9d39c39222105f6b304d050131fd</sys_update_name>
+        <sys_update_version display_value="par_dashboard_permission_723f9d39c39222105f6b304d050131fd">be3f9d39c39222105f6b304d050131ff</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-23 10:41:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

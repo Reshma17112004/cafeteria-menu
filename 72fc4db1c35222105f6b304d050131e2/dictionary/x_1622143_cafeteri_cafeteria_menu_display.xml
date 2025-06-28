@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4add4175c35222105f6b304d0501313e" label="Cafeteria Menu Display" max_length="40" name="x_1622143_cafeteri_cafeteria_menu_display" type="collection">
+        <element label="Menu Date" max_length="40" name="menu_date" type="glide_date"/>
+        <element label="Menu Name" max_length="40" name="menu_name" type="string"/>
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice/>
+        </element>
+        <element label="Menu Items" max_length="4000" name="menu_items" type="journal_input"/>
+    </element>
+</database>

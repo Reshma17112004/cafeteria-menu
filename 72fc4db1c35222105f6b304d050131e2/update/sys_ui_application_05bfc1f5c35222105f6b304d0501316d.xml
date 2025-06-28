@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>Cafeteria Menu Display</name>
+        <order/>
+        <roles>x_1622143_cafeteri.cafeteria_menu_display_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-23 09:28:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>05bfc1f5c35222105f6b304d0501316d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cafeteria Menu Display</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Cafeteria Menu Display" source="x_1622143_cafeteri">72fc4db1c35222105f6b304d050131e2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cafeteria Menu Display">72fc4db1c35222105f6b304d050131e2</sys_scope>
+        <sys_update_name>sys_ui_application_05bfc1f5c35222105f6b304d0501316d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-23 09:28:52</sys_updated_on>
+    </sys_ui_application>
+</record_update>
