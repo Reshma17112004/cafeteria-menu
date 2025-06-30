@@ -85,18 +85,17 @@ Watch the demo video here:
 
 ## 📂 Project Structure
 
+```
 Cafeteria Menu Display/
 ├── Tables/
-│ └── Cafeteria Menu Display
-
+│   └── Cafeteria Menu Display
 ├── UI Actions/
-│ └── Mark As Published
-
+│   └── Mark As Published
 ├── Catalog/
-│ └── Submit new cafeteria menu
-
+│   └── Submit new cafeteria menu
 ├── Reports/
-│ └── Cafeteria Report
+│   └── Cafeteria Report
+```
 
 
 ---
