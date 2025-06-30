@@ -88,10 +88,13 @@ Watch the demo video here:
 Cafeteria Menu Display/
 ├── Tables/
 │ └── Cafeteria Menu Display
+
 ├── UI Actions/
 │ └── Mark As Published
+
 ├── Catalog/
 │ └── Submit new cafeteria menu
+
 ├── Reports/
 │ └── Cafeteria Report
 
