@@ -60,19 +60,19 @@ This project is a ServiceNow-based solution to manage, publish, and view cafeter
 ## 📸 Screenshots
 
 ### 🎯 Studio Dashboard
-![Studio](studio.png)
+![Studio](images/studio.png)
 
 ### 📋 Menu Table
-![Table](table.png)
+![Table](images/table.png)
 
 ### 🛒 Service Catalog
-![Catalog](catalog.png)
+![Catalog](images/catalog.png)
 
 ### 📊 Report View
-![Report](report.png)
+![Report](images/report.png)
 
 ### 🔘 UI Action Button
-![UI Action](uiaction.png)
+![UI Action](images/uiaction.png)
 
 ---
 
